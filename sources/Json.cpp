@@ -1,4 +1,4 @@
-//Copyright 2019 <Kondr11>
+//Copyright 2019 <volver8>
 #include "Json.hpp"
 
     Json::Json(const string &s)

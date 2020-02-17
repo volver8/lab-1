@@ -1,4 +1,4 @@
-// Copyright 2019 <Kondr11>
+// Copyright 2019 <vovler8>
 
 #include "Json.hpp"
 
